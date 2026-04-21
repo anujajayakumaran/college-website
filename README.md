@@ -16,8 +16,6 @@ Contact email is provided for suggestions/feedback
 Project created by a GitHub user (author listed in repo)
 🧠 Simple Explanation
 
-This README basically tells you that the project is a basic college website where users can:
-
 Apply for admission
 Learn about the college
 Check fees
