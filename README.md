@@ -21,3 +21,5 @@ Learn about the college
 Check fees
 
 And it’s built using frontend technologies only (no backend/database).
+
+demo link https://github.com/anujajayakumaran/college-website.git
